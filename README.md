@@ -138,7 +138,7 @@ The current application is suitable for demonstrating the workflow, testing term
 
 The application is contained in a single HTML file with embedded styling and JavaScript:
 
-- `ai-opportunity-navigator.html`
+- `index.html`
 
 It runs entirely in the browser and does not require a server or build process. Opportunities, assessments, assignments, and workflow updates are saved in the browser's local storage. CSV export is available for the review queue.
 
@@ -152,7 +152,7 @@ Because the prototype has no backend or user authentication:
 
 ## Running the prototype
 
-Open `ai-opportunity-navigator.html` in a modern browser. No installation is required.
+Open `index.html` in a modern browser. No installation is required.
 
 The prototype includes fictional demonstration opportunities. Use **Restore demo scenarios** in the review queue to return to the sample dataset. Export the queue first if you need to preserve browser-local changes.
 
