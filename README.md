@@ -18,6 +18,23 @@ The project is designed as a portfolio example of AI enablement, transformation,
 **Note:** This is a portfolio prototype using fictional data.
 Changes are stored locally in your browser.
 
+### My Role & Contributions
+
+*Independent Portfolio Project | AI Enablement & Transformation*
+
+I designed and developed AI Opportunity Navigator as a portfolio project exploring how organizations can systematically identify, evaluate, and prioritize potential AI use cases.
+
+My contributions included:
+
+- **Problem Definition:** Identified the need for a structured, transparent process for AI opportunity intake and prioritization.
+- **Process & Workflow Design:** Designed separate workflows for opportunity submitters and reviewers, covering submission, screening, assessment, collaboration, and recommendations.
+- **Prioritization Framework:** Developed a weighted assessment methodology incorporating business impact, technical feasibility, data readiness, and adoption readiness.
+- **AI Governance:** Incorporated preliminary risk screening, specialist review, and human oversight into the opportunity evaluation process.
+- **Product Development:** Translated business requirements into an interactive prototype using Codex for AI-assisted development.
+- **Testing & Iteration:** Refined the user experience, assessment guidance, and workflows through scenario-based testing and iterative improvements.
+
+**Tools:** Codex, HTML, CSS, JavaScript, GitHub, GitHub Pages.
+
 ## Business problem
 
 Organizations often receive AI ideas through presentations, spreadsheets, emails, and informal conversations. Those ideas can be difficult to compare because:
