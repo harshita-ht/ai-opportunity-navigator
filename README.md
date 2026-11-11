@@ -4,9 +4,13 @@ AI Opportunity Navigator is a browser-based prototype for collecting, assessing,
 
 The project is designed as a portfolio example of AI enablement, transformation, product thinking, and responsible AI governance. It focuses on the operating model around AI decisions—not on building an AI model.
 
-### 🚀 Live Demo
+### Live Demo
 
 [Try AI Opportunity Navigator](https://harshita-ht.github.io/ai-opportunity-navigator/)
+
+### Video Walkthrough
+
+https://github.com/user-attachments/assets/0934f2d4-a253-4de8-934e-25927b73f337
 
 ### Explore the Application
 
